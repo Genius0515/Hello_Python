@@ -1,6 +1,7 @@
 """
-專案名稱:開始上傳第一個Github專案
-專案說明:嘗試上傳專案檔案
+Last Update Date:20260719
+Project Name:Start to upload first Github project
+Project Description:Try to use requirements.txt standard to give other person project program
 """
 import sys
 
